@@ -1,0 +1,53 @@
+name: Kaiimoji
+version: ${version}
+main: dev.kugge.kaiimoji.Kaiimoji
+api-version: 1.19
+folia-supported: true
+authors: [kugge]
+description: Kaiimojis!!
+permissions:
+  kaiimoji.heart:
+    description: Heart kaiimoji
+    default: false
+  kaiimoji.purple:
+    description: Purple kaiimoji
+    default: false
+  kaiimoji.boom:
+    description: Boom kaiimoji
+    default: false
+  kaiimoji.fire:
+    description: Fire kaiimoji
+    default: false
+  kaiimoji.note:
+    description: Note kaiimoji
+    default: false
+  kaiimoji.portal:
+    description: Portal kaiimoji
+    default: false
+  kaiimoji.sonic:
+    description: Sonic kaiimoji
+    default: false
+  kaiimoji.enchant:
+    description: Enchant kaiimoji
+    default: false
+  kaiimoji.scrape:
+    description: Scrape kaiimoji
+    default: false
+  kaiimoji.sound.bit:
+    description: Bit sound kaiimoji
+    default: false
+  kaiimoji.sound.guitar:
+    description: Guitar sound kaiimoji
+    default: false
+  kaiimoji.sound.bell:
+    description: Bell sound kaiimoji
+    default: false
+  kaiimoji.sound.flute:
+    description: Flute sound kaiimoji
+    default: false
+  kaiimoji.sound.didgeridoo:
+    description: Didgeridoo sound kaiimoji
+    default: false
+  kaiimoji.sound.snare:
+    description: Snare sound kaiimoji
+    default: false
