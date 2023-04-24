@@ -1,10 +1,5 @@
 # Kaiimoji
 
-Simple plugin that allow users to reply to their latest conversation.
+Kaiimojis ! Double-sneak emojis for a vanilla feeling.
 
-## Usage
-
-```bash
-msg user message # Send message to user
-r message # Same as above, user is your latest conversation
-```
+![demo](./demo.png)
